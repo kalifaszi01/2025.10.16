@@ -1,0 +1,10 @@
+[
+
+{"neve":"alma","ara":200,"mennyiseg":5,"keszleten":true},
+{"neve":"korte","ara":250,"mennyiseg":3,"keszleten":true},
+{"neve":"banan","ara":300,"mennyiseg":7,"keszleten":false},
+{"neve":"narancs","ara":400,"mennyiseg":2,"keszleten":true},
+{"neve":"szilva","ara":150,"mennyiseg":4,"keszleten":true}
+
+]
+
